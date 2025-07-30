@@ -6,6 +6,8 @@ I use [Operator Mono](https://typography.com/blog/introducing-operator) which is
 [Cobalt2](https://github.com/wesbos/cobalt2)
 
 ## Extensions
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+  - Bring real icons to your Visual Studio Code
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - Integrates [ESLint](http://eslint.org/) into VS Code. If you are new to ESLint check the [documentation](http://eslint.org/).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
