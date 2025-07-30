@@ -8,3 +8,9 @@ I use [Operator Mono](https://typography.com/blog/introducing-operator) which is
 ## Extensions
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   - Integrates [ESLint](http://eslint.org/) into VS Code. If you are new to ESLint check the [documentation](http://eslint.org/).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+  - Prettier is an opinionated code formatter.
+- [Code Spellchecker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+  - A basic spell checker that works well with code and documents.
+- [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+  - 📸 Take beautiful screenshots of your code in VS Code!
